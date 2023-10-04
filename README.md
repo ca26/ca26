@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chaitu! <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/chaituatluri/">Cybersecurity Professional</a>
+<h1>Hi, I'm Chaitu! <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/chaituatluri/">IT Risk Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
